@@ -1,0 +1,12 @@
+-Eres un hacker, acabas de hackear SpaceX porque crees que tienen información de vida alienignea, 
+Eloncio se entera y te manda sus robots de SpaceX que se te presentan en casa.
+
+-Los robots son IA que poco a poco irán rompiendo la puerta, su objetivo es matarte (cuando te tocan te quitan vida)
+
+-Tu tienes una nerf que tira pendrives, tienes que evitar que te maten.
+
+-Para asegurar la información del hackeo, te pasas todos los datos a un pendrive,
+ tu objetivo es que los robots no lleguen hacia el. 
+El pendrive tendrá una barra de progreso de 0 a 100 que se mostrará en un PC y en la UI.
+
+-Cuando el Pendrive llegue a 100 se acaba el juego y has ganado.
