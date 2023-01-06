@@ -1,12 +1,28 @@
+FALTA: 
+-Tutorial
+-IA - Spawnea en calle, romper puerta al tocar, objetivo llegar al pc, no atacan.
+-UI - Barra de progreso, Salud. --  Balas restantes en el arma in situ, como en clase
+
+Oleadas de 10 robots.
+Cada robot tiene 100 de vida, con un pendriveazo le quitas 50, mueren de 2 toques. 
+Tienes 20 balas.
+Cartucho de munición + 20
+Cada robot te quita 10 cada vez que te toca: Mueres a los 10 toques
+Botiquín +40 vida
+---------------------------------------------------------------------------------------------------
 -Eres un hacker, acabas de hackear SpaceX porque crees que tienen información de vida alienignea, 
 Eloncio se entera y te manda sus robots de SpaceX que se te presentan en casa.
 
--Los robots son IA que poco a poco irán rompiendo la puerta, su objetivo es matarte (cuando te tocan te quitan vida)
+-Los robots son IA que poco a poco irán rompiendo la puerta.
+Objetivo: 
+Barra de progreso llega al 100%
 
--Tu tienes una nerf que tira pendrives, tienes que evitar que te maten.
+Evitar que robots lleguen a pc 
+Evitar que te maten
+
+-Tu tienes una nerf que tira pendrives
 
 -Para asegurar la información del hackeo, te pasas todos los datos a un pendrive,
- tu objetivo es que los robots no lleguen hacia el. 
 El pendrive tendrá una barra de progreso de 0 a 100 que se mostrará en un PC y en la UI.
 
 -Cuando el Pendrive llegue a 100 se acaba el juego y has ganado.
