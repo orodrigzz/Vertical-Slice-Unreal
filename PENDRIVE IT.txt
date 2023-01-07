@@ -1,12 +1,20 @@
 FALTA: 
 -Tutorial
--IA - Spawnea en calle, romper puerta al tocar, objetivo llegar al pc, no atacan.
--UI - Barra de progreso, Salud. --  Balas restantes en el arma in situ, como en clase
-
+---------------------------------------------------------------------------------------------------
+IA
+Spawnea en calle
+Romper puerta al tocar
+Objetivo llegar al pc
+---------------------------------------------------------------------------------------------------
+UI 
+-Barra de progreso
+-Salud
+-Balas restantes en el arma in situ, como en clase 50%
+---------------------------------------------------------------------------------------------------
 Oleadas de 10 robots.
 Cada robot tiene 100 de vida, con un pendriveazo le quitas 50, mueren de 2 toques. 
-Tienes 20 balas.
-Cartucho de munición + 20
+Tienes 25 balas.
+Cartucho de munición + 25
 Cada robot te quita 10 cada vez que te toca: Mueres a los 10 toques
 Botiquín +40 vida
 ---------------------------------------------------------------------------------------------------
