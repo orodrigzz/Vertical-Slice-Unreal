@@ -2,7 +2,6 @@ FALTA:
 -Tutorial
 ---------------------------------------------------------------------------------------------------
 IA
-Spawnea en calle
 Romper puerta al tocar
 Objetivo llegar al pc
 ---------------------------------------------------------------------------------------------------
@@ -11,7 +10,7 @@ UI
 -Salud
 -Balas restantes en el arma in situ, como en clase 50%
 ---------------------------------------------------------------------------------------------------
-Oleadas de 10 robots.
+Oleadas de 10 robots cada 1min
 Cada robot tiene 100 de vida, con un pendriveazo le quitas 50, mueren de 2 toques. 
 Tienes 25 balas.
 Cartucho de munición + 25
