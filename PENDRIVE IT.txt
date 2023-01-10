@@ -9,13 +9,12 @@ Anim Muerte IA
 Romper puerta al tocar
 Objetivo llegar al pc
 Bajar velocidad
-
 Cinematica puerta abajo
 ----------------------
 UI 
--Balas restantes en el arma in situ, como en clase 50% - a malas en UI al lado de vida
+Balas restantes en el arma in situ, como en clase 50% - a malas en UI al lado de vida
 --------------------------
-Que funcione botiquin y cartuchos
+Recoger botiquin y cartuchos
 ---------------------------
 Oleadas de 10 robots cada 1min
 Cada robot tiene 1 de vida, con un pendriveazo le quitas 0.5, mueren de 2 toques.
