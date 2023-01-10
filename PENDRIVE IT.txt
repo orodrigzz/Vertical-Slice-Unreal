@@ -12,8 +12,7 @@ Cinematica puerta abajo
 --------------------------
 Recoger botiquin y cartuchos
 
-Tienes 25 balas.
-Cartucho de munición + 25b
+Cartucho de munición + 25b Botiquín +0.4 vida
 
 Pulsar tecla para poner pendrive y que empieze cuenta atrás
 --------------------------
@@ -21,7 +20,6 @@ Oleadas de 10 robots cada 1min
 Cada robot tiene 1 de vida, con un pendriveazo le quitas 0.5, mueren de 2 toques.
 
 Cada robot te quita 0.1 cada vez que te toca: Mueres a los 10 toques
-Botiquín +0.4 vida
 ---------------------------------------------------------------------------------------------------
 -Eres un hacker, acabas de hackear SpaceX porque crees que tienen información de vida alienignea, 
 Eloncio se entera y te manda sus robots de SpaceX que se te presentan en casa.
