@@ -4,13 +4,16 @@ Credits
 Settings
 Tutorial
 ---------------------------------------------------------------------------------------------------
-HOY:
-IA
+Sonido pisadas IA & Player
+Anim Muerte IA
 Romper puerta al tocar
 Objetivo llegar al pc
+Bajar velocidad
+
+Cinematica puerta abajo
 ----------------------
 UI 
--Balas restantes en el arma in situ, como en clase 50%
+-Balas restantes en el arma in situ, como en clase 50% - a malas en UI al lado de vida
 --------------------------
 Que funcione botiquin y cartuchos
 ---------------------------
@@ -22,9 +25,6 @@ Cartucho de munición + 25b
 
 Cada robot te quita 0.1 cada vez que te toca: Mueres a los 10 toques
 Botiquín +0.4 vida
-
-Sonido pisadas
-Anim Muerte
 ---------------------------------------------------------------------------------------------------
 Add-on:
 Pulsar tecla para poner barrera en puerta
