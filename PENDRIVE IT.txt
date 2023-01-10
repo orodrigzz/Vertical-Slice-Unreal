@@ -1,26 +1,30 @@
-FALTA: Para Martes y Miercoles
+Miercoles:
 Menú
 Credits
 Settings
 Tutorial
-
-Domingo y Lunes:
 ---------------------------------------------------------------------------------------------------
+HOY:
 IA
 Romper puerta al tocar
 Objetivo llegar al pc
----------------------------------------------------------------------------------------------------
+----------------------
 UI 
 -Balas restantes en el arma in situ, como en clase 50%
----------------------------------------------------------------------------------------------------
+--------------------------
 Que funcione botiquin y cartuchos
----------------------------------------------------------------------------------------------------
+---------------------------
 Oleadas de 10 robots cada 1min
-Cada robot tiene 1 de vida, con un pendriveazo le quitas 0.5, mueren de 2 toques. 
+Cada robot tiene 1 de vida, con un pendriveazo le quitas 0.5, mueren de 2 toques.
+
 Tienes 25 balas.
 Cartucho de munición + 25b
+
 Cada robot te quita 0.1 cada vez que te toca: Mueres a los 10 toques
 Botiquín +0.4 vida
+
+Sonido pisadas
+Anim Muerte
 ---------------------------------------------------------------------------------------------------
 Add-on:
 Pulsar tecla para poner barrera en puerta
