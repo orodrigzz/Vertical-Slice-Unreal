@@ -1,13 +1,23 @@
+1h:
 Menú
 Credits
 Settings
 Tutorial
+
+1h:
 Sonido pisadas IA & Player
 Anim Muerte IA
-Romper puerta al tocar
-Objetivo matarte / llegar al pc
+
+3h:
+Objetivo matarte
 Bajar velocidad
-Cinematica puerta abajo
+
+
+9:20h
+11:00 30min Descanso
+14:00 2h Descanso
+16:00 Otra vé
+19:30 Entregar 
 --------------------------
 Cada robot tiene 1 de vida, con un pendriveazo le quitas 0.5, mueren de 2 toques.
 Cada robot te quita 0.1 cada vez que te toca: Mueres a los 10 toques
