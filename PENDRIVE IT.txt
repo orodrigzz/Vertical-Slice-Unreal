@@ -19,8 +19,8 @@ Bajar velocidad
 16:00 Otra vé
 19:30 Entregar 
 --------------------------
-Cada robot tiene 1 de vida, con un pendriveazo le quitas 0.5, mueren de 2 toques.
-Cada robot te quita 0.1 cada vez que te toca: Mueres a los 10 toques
+Robot mueren de 2 toques.
+Mueres a los 10 toques
 ---------------------------------------------------------------------------------------------------
 LORE:
 Oleadas de 10 robots cada 1min
