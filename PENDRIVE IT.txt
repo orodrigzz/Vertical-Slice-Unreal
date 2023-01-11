@@ -7,15 +7,10 @@ Tutorial
 1h:
 Sonido pisadas IA & Player
 Anim Muerte IA
-
-1H
 Bajar velocidad
-Robot mueren de 2 toques.
 ------------
-11:00 30min Descanso
-14:00 2h Descanso
 16:00 Otra vé
-19:30 Entregar y Jugá
+20:15 Entregar y Jugá
 ---------------------------------------------------------------------------------------------------
 LORE:
 Oleadas de 10 robots cada 1min
