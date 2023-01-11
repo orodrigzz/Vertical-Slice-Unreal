@@ -9,18 +9,18 @@ Sonido pisadas IA & Player
 Anim Muerte IA
 
 3h:
-Objetivo matarte
+Matarte
 Bajar velocidad
-
-
+Que rompan puerta
+Robot mueren de 2 toques.
+Mueres a los 10 toques
+------------
+LLevo 1h30m
 9:20h
 11:00 30min Descanso
 14:00 2h Descanso
 16:00 Otra vé
-19:30 Entregar 
---------------------------
-Robot mueren de 2 toques.
-Mueres a los 10 toques
+19:30 Entregar y Jugá
 ---------------------------------------------------------------------------------------------------
 LORE:
 Oleadas de 10 robots cada 1min
